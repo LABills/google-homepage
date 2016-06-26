@@ -1,0 +1,77 @@
+a:visited{
+	color:black;
+}
+}
+div{
+
+}
+#links{
+	position:fixed;
+	right:8px;
+}
+#links img{
+	margin-top:10px;
+	margin-bottom:-5px;
+	padding:5px;
+}
+#links a{
+	padding:5px;
+
+}
+#logo{
+	display:block;
+	margin: auto;
+	padding-top:10%;
+}
+#search{
+	display:block;
+	width:100%;
+	padding-top:20px;
+}
+#textbox{
+	display:block;
+	margin:auto;
+	padding:10px;
+}
+#footer{
+	position:fixed;
+	width:100%;
+	height:35px;
+	bottom:0px;
+	left:1px;
+	border: 1px solid #F0F0F0;
+	background-color:#F2F2F2;
+}
+#googlesearch{
+	display:inline;
+	margin-left:39%;
+	margin-top:30px;
+	margin-right:40px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:10px;
+	padding-right:10px;
+}
+#lucky{
+	padding:5px;
+}
+#footleft{
+	position: absolute;
+	left:8px;
+	bottom:10px;	
+}
+#footright{
+	position:fixed;
+	right:8px;
+	bottom:10px;
+}
+#footright a:link{
+	color:#BBBBBB;
+	text-decoration:none;
+	padding:5px;
+}
+#footleft a:link{
+	color:#BBBBBB;
+	text-decoration:none;
+	padding:5px;
+}
